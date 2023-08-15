@@ -7,7 +7,7 @@ import { create as ipfsHttpClient } from "ipfs-http-client";
 
 const ipfsClient = require('ipfs-http-client');
 
-const projectId = 'YOUR_INFURa_PROJECT_ID'; 
+const projectId = 'YOUR_INFURA_PROJECT_ID'; 
 
 const projectSecret = 'YOUR_INFURA_SECRET_KEY';  
 
